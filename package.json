@@ -1,0 +1,23 @@
+{
+  "name": "mss2dog",
+  "version": "0.0.0",
+  "description": "Microsoft SQL Server To Datadog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroPinheiro/mss2dog.git"
+  },
+  "author": "Pedro Pinheiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PedroPinheiro/mss2dog/issues"
+  },
+  "homepage": "https://github.com/PedroPinheiro/mss2dog#readme",
+  "keywords": [
+    "MSSQL",
+    "Datadog"
+  ]
+}
